@@ -1,0 +1,12 @@
+//
+//  AppDelegate.swift
+//  FH-NYC
+//
+//  Created by Christophe Delhaze on 31/1/20.
+//  Copyright © 2020 Christophe Delhaze. All rights reserved.
+//
+
+config_name = Prod
+server_api_url = dummy.prodserver.com
+api_version = v1
+protocol = https
